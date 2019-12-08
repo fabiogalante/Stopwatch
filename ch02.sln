@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scalability-sample", "scalability-sample\scalability-sample.csproj", "{21389BDA-5B4B-4F37-AFD4-918851377B40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "performance-issues", "performance-issues\performance-issues.csproj", "{8E6F00D9-BB8D-4934-BC51-07CB95002485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "performance-issues", "performance-issues\performance-issues.csproj", "{8E6F00D9-BB8D-4934-BC51-07CB95002485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart", "Smart\Smart.csproj", "{EB87B608-9A79-4C06-931D-225F60175578}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8E6F00D9-BB8D-4934-BC51-07CB95002485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E6F00D9-BB8D-4934-BC51-07CB95002485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E6F00D9-BB8D-4934-BC51-07CB95002485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB87B608-9A79-4C06-931D-225F60175578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB87B608-9A79-4C06-931D-225F60175578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB87B608-9A79-4C06-931D-225F60175578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB87B608-9A79-4C06-931D-225F60175578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
